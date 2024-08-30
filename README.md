@@ -6,6 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+
 # StoreOnMS7
 
 Welcome to the StoreOnMS7 project! This is a comprehensive online store built using the Laravel framework, PHP, CSS, JavaScript, and HTML. It took 7 months to complete and is my first full project.
@@ -38,7 +40,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/storeonms7.git
+    git clone https://github.com/mosbahmessaoud/storeonms7.git
     cd storeonms7
     ```
 
@@ -88,6 +90,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - ms7mosbah@gmail.com
 
 Project Link: https://storeonms7.site
